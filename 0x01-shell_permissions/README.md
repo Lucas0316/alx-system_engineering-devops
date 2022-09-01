@@ -5,3 +5,4 @@ script 4 changes file ownership of hello
 script 5 creates an empty file
 script 6 adds execute permission to hello
 script 7 adds execution permission to the owner, the group owner and the other users
+script 8 ues numeric for permissions adding
