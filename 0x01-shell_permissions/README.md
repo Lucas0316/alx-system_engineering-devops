@@ -10,3 +10,4 @@ script 9 uses number values for assigning permissions
 script 10 set the hello’s permissions to be same as those of olleh
 script 11 changes permissions for subdirectories
 script 12 creates a directory with permissions 751
+script 13 changes group ownership
