@@ -12,3 +12,4 @@ script 11 changes permissions for subdirectories
 script 12 creates a directory with permissions 751
 script 13 changes group owner of the file
 Change ownership and group ownership simultaneously
+Symbolic link permissions
