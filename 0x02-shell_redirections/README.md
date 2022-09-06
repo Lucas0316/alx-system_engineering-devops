@@ -22,3 +22,4 @@ script 19 replaces characters in inputs
 script 20 removes specific letters from input
 script 21 reverses a file's input
 script 22 displays all users and their home directories, sorted by users
+script 23 displays empty files and directories in the current directory
